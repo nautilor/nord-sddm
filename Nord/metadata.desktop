@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Nord
+Description=Nord sddm theme
+Author=nautilor
+Copyright=(c) 2021, nautilor
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/nautilor/nord-sddm/
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=edoardo.zerbo@gmail.com
+Theme-Id=Nord
+Theme-API=2.0

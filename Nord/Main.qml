@@ -376,16 +376,6 @@ PlasmaCore.ColorScope {
             color: "#2e3440"
             opacity: 1.0
             z:-1
-            DropShadow {
-                anchors.fill: formBg
-                cached: true
-                horizontalOffset: 3
-                verticalOffset: 3
-                radius: 10
-                samples: 50
-                color: "#aa000000"
-                source: formBg
-            }
         }
 
         ShaderEffectSource {

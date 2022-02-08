@@ -2,6 +2,8 @@
 
 This is my custom login screen based on the Nord colorscheme
 
+This version does not have the shadow around the Login Rectangle (as you can see in the screenshot below)
+
 # Installation
 - Move the folder `Nord` in the sddm themes folder
 

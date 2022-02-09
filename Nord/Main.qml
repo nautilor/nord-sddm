@@ -376,6 +376,19 @@ PlasmaCore.ColorScope {
             color: "#2e3440"
             opacity: 1.0
             z:-1
+            Rectangle {
+                id: dropShadowRect
+                color: "#15181e"
+                width: parent.width
+                height: parent.height
+                z: -1
+                opacity: 0.75
+                radius: 10
+                anchors.left: parent.left
+                anchors.leftMargin: 4
+                anchors.top: parent.top
+                anchors.topMargin: 4
+        }
         }
 
         ShaderEffectSource {
